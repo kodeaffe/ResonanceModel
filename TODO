@@ -1,0 +1,11 @@
+# TODO
+
+- Implement fitter
+- Discuss FrequencyConfig with client
+- Fix little TODOs in code
+- Write unit tests
+- Use a proper command line parsing library
+- The former probably requires some sort of package mangement like maven
+- Add build system (Make / Ant) to compile, package, generate docs
+- Consider if some members and methods should be protected/private
+- Improve documentation
